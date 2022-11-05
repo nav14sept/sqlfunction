@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace sqlfunction
 {
-    internal class Product 
+    internal class Product   
     {
         public int ProductID { get; set; }
         public string ProductName { get; set; }
